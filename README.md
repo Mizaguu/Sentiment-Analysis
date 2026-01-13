@@ -1,0 +1,1 @@
+Os modelos padrão de "saco de palavras" (como o Naive Bayes) falham ao compreender o contexto. Eles interpretam "não é bom" como duas palavras separadas e podem se confundir. O LSTM entende a ordem e a dependência entre as palavras, tornando-o muito mais preciso para sentimentos complexos como sarcasmo ou negação.
